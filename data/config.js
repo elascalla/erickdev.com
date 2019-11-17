@@ -13,7 +13,7 @@ module.exports = {
 		instagram: 'https://instagram.com/elascalla',
 		youtube: 'https://www.youtube.com/user/elascalla'
 	},
-	googleAnalyticsID: 'UA-144087925-1',
+	googleAnalyticsID: 'UA-72727233-2',
 	themeColor: '#6b63ff',
 	backgroundColor: '#6b63ff',
 	social: {
